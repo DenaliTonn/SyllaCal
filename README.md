@@ -1,5 +1,5 @@
 # SyllaCal
-##Project Description:
+## Project Description:
   Our proposed application aims to streamline the process of converting important dates in syllabuses into personalized calendars. Our idea will revolutionize the academic field by integrating user-friendly features and an intuitive interface allowing students and educators to effortlessly input syllabus data including exam schedules, homework assignments, and office hours into a comprehensive calendar. The app will automatically generate a personalized calendar view that includes features like reminding users of incoming due dates to foster better time management and organization, as well as exporting an agenda-style checklist. By effortlessly creating a visual timeline of events, students and teachers save countless hours, as they gain easier access to managing their daily lives and ensure that they will never miss a deadline again.
 
  - Calendar Generation:
