@@ -1,5 +1,8 @@
 # SyllaCal
 (The original proposal can be found in the proposal.txt file)
+## Demo Video:
+  Please check out our recorded demo at https://drive.google.com/drive/folders/1W2Q1H9_m6u37JiXCa03as9EpB7eZDHBP?usp=sharing 
+
 ## Project Description:
   Our proposed application aims to streamline the process of converting important dates in syllabuses into personalized calendars. Our idea will revolutionize the academic field by integrating user-friendly features to allow students to effortlessly input syllabus data that includes things like exam schedules, due dates, and office hours into a comprehensive calendar. The program takes each syllabus PDF included in the syllabi directory and will automatically send an email with attachments holding the important dates from each syllabus that you can click to instantly create a personalized calendar view of your courses in seconds. By effortlessly creating a visual timeline of events, students save countless hours of scheduling and organizing, as they gain easier access to managing their daily lives and ensure that they will never miss a deadline again.
 
